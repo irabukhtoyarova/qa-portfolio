@@ -1,8 +1,10 @@
 # Petstore — тестирование API
 
-**Стенд:** https://petstore.swagger.io
+## Цель проекта
 
-**Тип:** API-тестирование (Postman, Swagger, HTTP, JSON)
+Отработка тестирования API: Postman, Swagger, HTTP, JSON.
+
+Стенд: https://petstore.swagger.io/v2
 
 ## Структура проекта
 
